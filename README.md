@@ -1,6 +1,6 @@
-==================================================================
+
 run_analysis.R script does the following 
-==================================================================
+
 
 1. Read X (Measurements) training and test datasets into dataframes xtrain and xtest
    Read Y (Activity) training and test datasets into dataframes ytrain and ytest
